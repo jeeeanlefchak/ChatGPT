@@ -1,4 +1,4 @@
-Api CHAT GPT
+CHAT GPT
 .Net 6 Console
 
 
